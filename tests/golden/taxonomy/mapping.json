@@ -1,0 +1,339 @@
+[
+  {
+    "order": 0,
+    "material_path": "下里巴人/日常口语",
+    "slug": "daily_spoken",
+    "rime_table": "wubi86.ci.daily_spoken",
+    "files": [
+      "口头语",
+      "语气词",
+      "称谓",
+      "其它"
+    ]
+  },
+  {
+    "order": 1,
+    "material_path": "下里巴人/生活服务",
+    "slug": "life",
+    "rime_table": "wubi86.ci.life",
+    "files": [
+      "饮食",
+      "服饰",
+      "家居",
+      "美容",
+      "购物",
+      "家政",
+      "其它"
+    ]
+  },
+  {
+    "order": 2,
+    "material_path": "下里巴人/成语熟语",
+    "slug": "idioms",
+    "rime_table": "wubi86.ci.idioms",
+    "files": [
+      "成语",
+      "俗语",
+      "歇后语",
+      "惯用语",
+      "诗词名句",
+      "其它"
+    ]
+  },
+  {
+    "order": 3,
+    "material_path": "下里巴人/新词",
+    "slug": "newwords",
+    "rime_table": "wubi86.ci.newwords",
+    "files": [
+      "科技新词",
+      "行业新词",
+      "社会新词",
+      "网络新词",
+      "网络梗",
+      "其它"
+    ]
+  },
+  {
+    "order": 4,
+    "material_path": "下里巴人/方言",
+    "slug": "dialects",
+    "rime_table": "wubi86.ci.dialects",
+    "files": [
+      "北方方言",
+      "吴方言",
+      "粤方言",
+      "闽方言",
+      "其它"
+    ]
+  },
+  {
+    "order": 5,
+    "material_path": "下里巴人/游戏电竞",
+    "slug": "games",
+    "rime_table": "wubi86.ci.games",
+    "files": [
+      "单机游戏",
+      "网络游戏",
+      "手机游戏",
+      "电竞",
+      "游戏术语",
+      "其它"
+    ]
+  },
+  {
+    "order": 6,
+    "material_path": "下里巴人/动漫二次元",
+    "slug": "anime",
+    "rime_table": "wubi86.ci.anime",
+    "files": [
+      "动漫作品",
+      "角色",
+      "ACG术语",
+      "其它"
+    ]
+  },
+  {
+    "order": 7,
+    "material_path": "下里巴人/影视娱乐",
+    "slug": "entertainment",
+    "rime_table": "wubi86.ci.entertainment",
+    "files": [
+      "影视作品",
+      "音乐",
+      "明星",
+      "娱乐八卦",
+      "其它"
+    ]
+  },
+  {
+    "order": 8,
+    "material_path": "阳春白雪/政治",
+    "slug": "politics",
+    "rime_table": "wubi86.ci.politics",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 9,
+    "material_path": "阳春白雪/法律、司法",
+    "slug": "law",
+    "rime_table": "wubi86.ci.law",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 10,
+    "material_path": "阳春白雪/对外关系、国际关系",
+    "slug": "foreign",
+    "rime_table": "wubi86.ci.foreign",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 11,
+    "material_path": "阳春白雪/军事",
+    "slug": "military",
+    "rime_table": "wubi86.ci.military",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 12,
+    "material_path": "阳春白雪/社会、劳动",
+    "slug": "society",
+    "rime_table": "wubi86.ci.society",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 13,
+    "material_path": "阳春白雪/灾难、事故",
+    "slug": "disaster",
+    "rime_table": "wubi86.ci.disaster",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 14,
+    "material_path": "阳春白雪/经济",
+    "slug": "economy",
+    "rime_table": "wubi86.ci.economy",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 15,
+    "material_path": "阳春白雪/财政、金融",
+    "slug": "finance",
+    "rime_table": "wubi86.ci.finance",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 16,
+    "material_path": "阳春白雪/基本建设、建筑业、房地产",
+    "slug": "construction",
+    "rime_table": "wubi86.ci.construction",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 17,
+    "material_path": "阳春白雪/农业、农村",
+    "slug": "agriculture",
+    "rime_table": "wubi86.ci.agriculture",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 18,
+    "material_path": "阳春白雪/矿业、工业",
+    "slug": "industry",
+    "rime_table": "wubi86.ci.industry",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 19,
+    "material_path": "阳春白雪/能源、水务、水利",
+    "slug": "energy",
+    "rime_table": "wubi86.ci.energy",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 20,
+    "material_path": "阳春白雪/电子信息产业",
+    "slug": "electronics",
+    "rime_table": "wubi86.ci.electronics",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 21,
+    "material_path": "阳春白雪/交通运输、邮政、物流",
+    "slug": "transport",
+    "rime_table": "wubi86.ci.transport",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 22,
+    "material_path": "阳春白雪/商业、外贸、海关",
+    "slug": "commerce",
+    "rime_table": "wubi86.ci.commerce",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 23,
+    "material_path": "阳春白雪/服务业、旅游业",
+    "slug": "services",
+    "rime_table": "wubi86.ci.services",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 24,
+    "material_path": "阳春白雪/环境、气象",
+    "slug": "environment",
+    "rime_table": "wubi86.ci.environment",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 25,
+    "material_path": "阳春白雪/教育",
+    "slug": "education",
+    "rime_table": "wubi86.ci.education",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 26,
+    "material_path": "阳春白雪/科学技术",
+    "slug": "science",
+    "rime_table": "wubi86.ci.science",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 27,
+    "material_path": "阳春白雪/文化、休闲娱乐",
+    "slug": "culture",
+    "rime_table": "wubi86.ci.culture",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 28,
+    "material_path": "阳春白雪/文学、艺术",
+    "slug": "literature",
+    "rime_table": "wubi86.ci.literature",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 29,
+    "material_path": "阳春白雪/传媒",
+    "slug": "media",
+    "rime_table": "wubi86.ci.media",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 30,
+    "material_path": "阳春白雪/医药、卫生",
+    "slug": "medicine",
+    "rime_table": "wubi86.ci.medicine",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 31,
+    "material_path": "阳春白雪/体育",
+    "slug": "sports",
+    "rime_table": "wubi86.ci.sports",
+    "files": [
+      "其它"
+    ]
+  },
+  {
+    "order": 32,
+    "material_path": "阳春白雪/地名",
+    "slug": "places",
+    "rime_table": "wubi86.ci.places",
+    "files": [
+      "行政区划",
+      "道路",
+      "机构",
+      "风景名胜",
+      "国外地名",
+      "其它"
+    ]
+  }
+]

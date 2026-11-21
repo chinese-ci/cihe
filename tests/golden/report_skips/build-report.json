@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "target": {
+    "name": "rime-wubi",
+    "version": "1.0.0"
+  },
+  "thresholds": {
+    "overall": 0.005,
+    "category": 0.02
+  },
+  "threshold_exceeded": true,
+  "violations": [
+    "总体",
+    "下里巴人/日常口语"
+  ],
+  "overall": {
+    "label": "总体",
+    "material_path": null,
+    "total": 7,
+    "encoded": 2,
+    "runtime_only": 1,
+    "dropped": 4,
+    "skip_count": 5,
+    "skip_rate": 0.714286,
+    "examples": [
+      {
+        "word": "卵石",
+        "disposition": "runtime",
+        "reason": "known_bad_char"
+      },
+      {
+        "word": "卵一二三四",
+        "disposition": "dropped",
+        "reason": "too_long_for_runtime"
+      },
+      {
+        "word": "卵龘",
+        "disposition": "dropped",
+        "reason": "out_of_charset"
+      },
+      {
+        "word": "AA制",
+        "disposition": "dropped",
+        "reason": "mixed_latin"
+      },
+      {
+        "word": "T恤",
+        "disposition": "dropped",
+        "reason": "mixed_latin"
+      }
+    ],
+    "skips": [
+      {
+        "word": "卵石",
+        "disposition": "runtime",
+        "reason": "known_bad_char"
+      },
+      {
+        "word": "卵一二三四",
+        "disposition": "dropped",
+        "reason": "too_long_for_runtime"
+      },
+      {
+        "word": "卵龘",
+        "disposition": "dropped",
+        "reason": "out_of_charset"
+      },
+      {
+        "word": "AA制",
+        "disposition": "dropped",
+        "reason": "mixed_latin"
+      },
+      {
+        "word": "T恤",
+        "disposition": "dropped",
+        "reason": "mixed_latin"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "label": "下里巴人/日常口语",
+      "material_path": "下里巴人/日常口语",
+      "total": 7,
+      "encoded": 2,
+      "runtime_only": 1,
+      "dropped": 4,
+      "skip_count": 5,
+      "skip_rate": 0.714286,
+      "examples": [
+        {
+          "word": "卵石",
+          "disposition": "runtime",
+          "reason": "known_bad_char"
+        },
+        {
+          "word": "卵一二三四",
+          "disposition": "dropped",
+          "reason": "too_long_for_runtime"
+        },
+        {
+          "word": "卵龘",
+          "disposition": "dropped",
+          "reason": "out_of_charset"
+        },
+        {
+          "word": "AA制",
+          "disposition": "dropped",
+          "reason": "mixed_latin"
+        },
+        {
+          "word": "T恤",
+          "disposition": "dropped",
+          "reason": "mixed_latin"
+        }
+      ],
+      "skips": [
+        {
+          "word": "卵石",
+          "disposition": "runtime",
+          "reason": "known_bad_char"
+        },
+        {
+          "word": "卵一二三四",
+          "disposition": "dropped",
+          "reason": "too_long_for_runtime"
+        },
+        {
+          "word": "卵龘",
+          "disposition": "dropped",
+          "reason": "out_of_charset"
+        },
+        {
+          "word": "AA制",
+          "disposition": "dropped",
+          "reason": "mixed_latin"
+        },
+        {
+          "word": "T恤",
+          "disposition": "dropped",
+          "reason": "mixed_latin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: wubi86.ci.daily_spoken
+version: "0.1.0"
+sort: original
+columns:
+  - text
+  - code
+...
+上班	hhgy
+下班	ghgy
+你好	wqvb
+再见	gmmq
+吃饭	ktqn
+咖啡	klkd
+奶茶	veaw
+学校	ipsu
+家人	peww
+手机	rtsm
+朋友	eedc
+火锅	ooqk
+电脑	jney
+睡觉	htip
+网络	mqxt
+谢谢	ytyt
+早上好	jhvb
+晚上好	jhvb
+测试词	iyyn
+日常口语	jiky

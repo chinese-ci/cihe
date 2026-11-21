@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "target": {
+    "name": "rime-wubi",
+    "version": "1.0.0"
+  },
+  "thresholds": {
+    "overall": 0.005,
+    "category": 0.02
+  },
+  "threshold_exceeded": false,
+  "violations": [],
+  "overall": {
+    "label": "总体",
+    "material_path": null,
+    "total": 20,
+    "encoded": 20,
+    "runtime_only": 0,
+    "dropped": 0,
+    "skip_count": 0,
+    "skip_rate": 0.0,
+    "examples": [],
+    "skips": []
+  },
+  "categories": [
+    {
+      "label": "下里巴人/日常口语",
+      "material_path": "下里巴人/日常口语",
+      "total": 20,
+      "encoded": 20,
+      "runtime_only": 0,
+      "dropped": 0,
+      "skip_count": 0,
+      "skip_rate": 0.0,
+      "examples": [],
+      "skips": []
+    }
+  ]
+}

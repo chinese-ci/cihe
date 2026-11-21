@@ -1,0 +1,56 @@
+# Rime dictionary
+# encoding: utf-8
+# tracer 夹具：官方 rime-wubi wubi86.dict.yaml 的单字子集（LGPL-3.0）
+---
+name: wubi86.zi
+version: "test"
+sort: original
+columns:
+  - text
+  - code
+...
+上	h
+下	gh
+人	w
+你	wq
+再	gmf
+友	dc
+口	kkkk
+吃	ktn
+咖	klk
+啡	kdj
+奶	ve
+好	vb
+学	ip
+家	pe
+常	ipkh
+手	rt
+日	jjjj
+早	jh
+晚	jq
+朋	ee
+机	sm
+校	suq
+测	imj
+火	ooo
+班	gyt
+电	jn
+睡	ht
+络	xtk
+网	mqq
+脑	eyb
+茶	aws
+见	mqb
+觉	ipmq
+词	yngk
+试	yaa
+语	ygk
+谢	ytm
+锅	qkm
+饭	qnr
+卵	lhng
+石	dgtg
+一	g
+二	fgg
+三	dgg
+四	lhng
